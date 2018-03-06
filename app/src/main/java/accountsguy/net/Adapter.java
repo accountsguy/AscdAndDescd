@@ -59,7 +59,7 @@ public class Adapter extends RecyclerView.Adapter<Adapter.Holder> {
 //            descending = (Button) itemView.findViewById(R.id.descend);
 //            ascending.setOnClickListener(this);
 //            descending.setOnClickListener(this);
-            tvMonth = (TextView) itemView.findViewById(R.id.month);
+//            tvMonth = (TextView) itemView.findViewById(R.id.month);
         }
 
         @Override
